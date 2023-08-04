@@ -1,0 +1,38 @@
+<Ads formatVersion="3">
+    <Ad>
+        <Id>7906</Id>
+        <Category>Офис</Category>
+        <Operation>Аренда</Operation>
+        <Address>Россия, г Москва, ул Первомайская, д 128</Address>
+        <Square>32</Square>
+        <Floor>4</Floor>
+        <Price>28797</Price>
+        <Description>Аренда офиса 32 м2 м. Первомайская в ВАО в административном здании. Аренда офиса площадью 32 м2, высота потолков три метра, пластиковые стекло-пакеты, новые отопительные радиаторы, пол линолеум, потолок армстронг, стены обои под покраску, Сталинское административное пятиэтажное здание, охрана, круглосуточный доступ, телефон, интернет, в рабочем состоянии с открытой планировкой, парковка.</Description>
+        <ContactPhone>8 495 3690133</ContactPhone>
+        <ManagerName>Сергей Вячеславович</ManagerName>
+        <Images>
+            <Image
+                url="https://www.testsite.ru/img/21c1d05d-c862-2967-3650-60240a37e4a1.jpeg"/>
+            <Image
+                url="https://www.testsite.ru/img/e3ef1dff-1090-0c40-0c81-60240a63e6cd.jpeg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <Id>7907</Id>
+        <Category>Офис</Category>
+        <Operation>Аренда</Operation>
+        <Address>Россия, г Москва, ул Первомайская, д 129</Address>
+        <Square>33</Square>
+        <Floor>4</Floor>
+        <Price>11111</Price>
+        <Description>Аренда офиса 32 м2 м. Первомайская в ВАО в административном здании. Аренда офиса площадью 32 м2, высота потолков три метра, пластиковые стекло-пакеты, новые отопительные радиаторы, пол линолеум, потолок армстронг, стены обои под покраску, Сталинское административное пятиэтажное здание, охрана, круглосуточный доступ, телефон, интернет, в рабочем состоянии с открытой планировкой, парковка.</Description>
+        <ContactPhone>8 495 3690134</ContactPhone>
+        <ManagerName>Александр Дементьев</ManagerName>
+        <Images>
+            <Image
+                url="https://www.testsite.ru/img/21c1d05d-c862-2967-3650-60240a37e4a1.jpeg"/>
+            <Image
+                url="https://www.testsite.ru/img/e3ef1dff-1090-0c40-0c81-60240a63e6cd.jpeg"/>
+        </Images>
+    </Ad>
+</Ads>

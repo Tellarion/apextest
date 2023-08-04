@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+section form {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    max-width: 50vw;
+    width: 100%;
+    margin: auto;
+}
+
+textarea {
+    margin-top: 10vh;
+    height: 30vh;
+}
